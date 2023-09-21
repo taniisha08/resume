@@ -1,0 +1,93 @@
+body {
+    background-image: url('web3.jpg');
+    /* background-repeat: no-repeat; */
+    background-attachment: fixed;
+    background-size: 100%;
+
+}
+
+.heading, .subheading {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container-xxl{
+    width: auto;
+    position:relative;
+    color: white;
+    margin: 4%;
+    padding: 5px;
+    border-radius: 12px;
+}
+
+.btn-outline-light{
+    color: white;
+    width: 100%;
+    border-radius: 50px;
+    background-color: rgba(17, 4, 4, 0.259);
+}
+
+.footer{
+    margin-left: 8%;
+    width:1000px;
+    position: fixed;
+    color: white;
+    /* margin-top: 2%; */
+    padding: 15px ;
+    bottom: -8%;
+}
+
+.footer2{
+    margin-left: 8%;
+    width:1000px;
+    position: fixed;
+    color: white;
+    /* margin-top: 2%; */
+    padding: 15px ;
+    bottom: -20%;
+}
+
+
+.hireproLogo{
+     width: 40px;
+     border-radius: 20%;
+
+}
+
+.rkvmLogo{
+    width: 60px;
+    border-radius: 20%;
+
+}
+
+
+.mitsLogo{
+    width:68px;
+    border-radius: 20%;
+
+}
+
+.carmelLogo{
+    width:58px;
+    border-radius: 20%;
+
+}
+
+.skills{
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px;
+    width: fit-content;
+}
+
+.animated-heading {
+    animation: fadeIn 1.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 100;
+    }
+}
