@@ -3,6 +3,7 @@ body {
     /* background-repeat: no-repeat; */
     background-attachment: fixed;
     background-size: 100%;
+    height: auto !important;
 
 }
 
@@ -25,25 +26,8 @@ body {
     border-radius: 50px;
     background-color: rgba(17, 4, 4, 0.259);
 }
-
 .footer{
-    margin-left: 8%;
-    width:1000px;
-    position: fixed;
-    color: white;
-    /* margin-top: 2%; */
-    padding: 15px ;
-    bottom: -8%;
-}
-
-.footer2{
-    margin-left: 8%;
-    width:1000px;
-    position: fixed;
-    color: white;
-    /* margin-top: 2%; */
-    padding: 15px ;
-    bottom: -20%;
+    margin-bottom: 4px;
 }
 
 
