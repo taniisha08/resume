@@ -2,7 +2,7 @@ body {
 background-image: url('web3.jpg');
 background-repeat: inherit;
 background-attachment: fixed;
-background-size: 100%;
+background-size: 1500px;
 }
 
 img {
@@ -12,10 +12,10 @@ p{
     text-align: right;
 }
 
-code{
+/* code{
     font-size: 20px !important;   
     font-family: Georgia, 'Times New Roman', Times, serif; 
-}
+} */
 
 
 
