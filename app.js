@@ -1,13 +1,13 @@
-
-function goToPage(ref){
-window.location.href = ref;
+function goToPage(ref) {
+  window.location.href = ref;
 }
 
 function isMobile() {
-    const regex = /Mobi|Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i;
-    return regex.test(navigator.userAgent);
-  }
-  
+  const regex =
+    /Mobi|Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i;
+  return regex.test(navigator.userAgent);
+}
+
 //   if (isMobile()) {
 //     console.log("Mobile device detected");
 //   } else {

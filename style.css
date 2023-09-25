@@ -17,8 +17,19 @@ p{
     font-family: Georgia, 'Times New Roman', Times, serif; 
 } */
 
+.container-xxl{
+    /* width: auto; */
+    /* position:relative; */
+    color: white;
+    /* margin: 4%; */
+    text-align: center;
+    /* padding: 4px; */
+    /* border-radius: 12px; */
+}
 
-
+.buttonRow{
+    padding: 5px !important;
+}
 .btn-outline-light{
     color: white;
     /* background-color:rgb(32, 20, 7); */
@@ -36,10 +47,10 @@ p{
 } */
 
 .container2-xxl{
-    width: auto;
-    height: 200px;
+    /* width: auto; */
+    /* height: 200px; */
     margin-top: 5%;
-    padding: 50px;
+    /* padding: 50px; */
     backdrop-filter: blur(0.5px);
     color: white;
     /* margin-left: 3%; */
@@ -66,6 +77,7 @@ h1 {
 
 .profilePicture {
     text-align: center;
+    padding-top: 20px;
 }
 
 .container3{

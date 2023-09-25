@@ -1,0 +1,24 @@
+body {
+    background-image: url('web3.jpg');
+    /* background-repeat: no-repeat; */
+    background-attachment: fixed;
+    background-size: 1500px;
+    height: auto !important;
+
+}
+
+.container-xxl{
+    width: auto;
+    position:relative;
+    color: white;
+    margin: 4%;
+    padding: 5px;
+    border-radius: 12px;
+}
+
+.btn-outline-light{
+    color: white;
+    width: 100%;
+    border-radius: 50px;
+    background-color: rgba(17, 4, 4, 0.259);
+}
