@@ -70,8 +70,10 @@ h1 {
 .intro {
     text-align: center;
     font-size: large;
-    /* margin-top: 2%; */
+    margin-top: 2%;
     font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-left:3px ;
+    padding-right:3px ;
  
 }
 
